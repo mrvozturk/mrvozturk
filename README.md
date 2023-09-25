@@ -8,7 +8,7 @@
 
 - 🎓 I am a graduate of the Faculty of Pharmacy of the University of Health Sciences.
 
-- 👩🏻‍💻 I am currently working on various puzzle games and updated websites to improve English. ( https://bbc-blog.vercel.app/ and https://puzzle-pieokrnvs-mrvozturk.vercel.app/)
+- 👩🏻‍💻 I am currently working on various puzzle games and updated websites to improve English. ( https://bbc-blog.vercel.app/ & https://puzzle-pieokrnvs-mrvozturk.vercel.app/)
 
 - 📄 Know about my experiences
   
