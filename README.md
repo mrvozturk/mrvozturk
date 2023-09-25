@@ -4,6 +4,8 @@
 
 <img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="1050px" height="600px">
 
+### About me
+
 - 🎓 I am a graduate of the Faculty of Pharmacy of the University of Health Sciences.
 
 - 👩🏻‍💻 I am currently working on various puzzle games and updated websites to improve English. ( https://bbc-blog.vercel.app/ and https://puzzle-pieokrnvs-mrvozturk.vercel.app/)
