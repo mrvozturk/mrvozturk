@@ -1,4 +1,4 @@
-<img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="450px" height="900px">
+<img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="450px" height="500px">
 
 
 <h1 align="center">Hi 👋, I'm Merve Öztürk</h1>
