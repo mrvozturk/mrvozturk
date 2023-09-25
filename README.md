@@ -4,17 +4,15 @@
 
 <img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="1050px" height="600px">
 
-
 - 🎓 I am a graduate of the Faculty of Pharmacy of the University of Health Sciences.
 
 - 👩🏻‍💻 I am currently working on various puzzle games and updated websites to improve English. ( https://bbc-blog.vercel.app/ and https://puzzle-pieokrnvs-mrvozturk.vercel.app/)
-
-- 📫 How to reach me **ozturkmerve745@gmail.com**
 
 - 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="ozturkmerve745@gmail.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>  
 <a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merveöztürk" height="30" width="40" /></a>
 </p>
 
