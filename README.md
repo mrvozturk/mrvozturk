@@ -3,6 +3,7 @@
 <h3 align="center">Junior Frontend Developer</h3>
 
 <img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="1050px" height="600px">
+<a href="mailto:ertgrulll@outlook.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ertu%C4%9Frul-yak%C4%B1n/" target="_blank"><img height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 🎓 I am a graduate of the Faculty of Pharmacy of the University of Health Sciences.
 
@@ -11,8 +12,8 @@
 - 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
-<a href="ozturkmerve745@gmail.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
-<a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merveöztürk" height="30" width="40" /></a>
+<a href="ozturkmerve745@gmail.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merveöztürk" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,11 +26,13 @@
     </tr>
     <tr>
       <th>
+        
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
-      </th>
+
+</th>
       <th>
         <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
