@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Merve Öztürk</h1>
-<h3 align="center">Junior Frontend Developer - </h3>
+<h3 align="center">Junior Frontend Developer </h3>
 
-<img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="1050px" height="200px">
+<img title="Merve Öztürk" alt="Alt text" src="https://github.com/mrvozturk/mrvozturk/assets/133267808/487c1595-facc-4ffe-800d-0d7ed7d5b022" width="1050px" height="400px">
 
 ### About me
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences
   
--<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <a href="mailto:ozturkmerve745@gmail.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="_blank"><img height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
