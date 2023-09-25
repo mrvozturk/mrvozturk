@@ -11,10 +11,9 @@
 - 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="ozturkmerve745@gmail.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
 <a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merveöztürk" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
