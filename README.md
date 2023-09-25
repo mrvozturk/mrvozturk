@@ -11,7 +11,6 @@
 - 👩🏻‍💻 I am currently working on various puzzle games and updated websites to improve English. ( https://bbc-blog.vercel.app/ and https://puzzle-pieokrnvs-mrvozturk.vercel.app/)
 
 - 📄 Know about my experiences
-  
 -<h3 align="left">Connect with me:</h3>
 <a href="mailto:ozturkmerve745@gmail.com" target="_blank"><img height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="_blank"><img height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
