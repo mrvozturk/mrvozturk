@@ -26,7 +26,7 @@ I build and design modern web applications using React and Next.js. I create sec
     <th>Software</th>
   </tr>
   <tr>
-    <td  >
+    <td align="center" style="padding: 10px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
@@ -34,7 +34,7 @@ I build and design modern web applications using React and Next.js. I create sec
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
     </td>
-    <td style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
@@ -54,7 +54,7 @@ I build and design modern web applications using React and Next.js. I create sec
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
       </a>
     </td>
-    <td style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
@@ -64,10 +64,11 @@ I build and design modern web applications using React and Next.js. I create sec
 
 <!-- Contact and Connect Section -->
 ## 📫 Contact & Connect
-<p>
+<p >
 <a href="mailto:ozturkmerve745@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/merve-%C3%B6-5062a5260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- Conclusion Message -->
-Feel free to connect with me to discuss web development, frontend technologies, and collaborative projects!
+ <p  style="font-size: 1.2em; color: #FF6347;"><strong> 👉🏻 Feel free to connect with me to discuss web development, frontend technologies, and collaborative projects!</strong></p>
+
